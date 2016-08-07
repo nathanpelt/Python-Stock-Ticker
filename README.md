@@ -13,7 +13,7 @@ How to test this code on your machine
 
 1. Follow steps above
 2. Download Eclipse IDE and pydev for Eclipse
-3. Make sure MYSQL database is running and you should be able to test the code
+3. Make sure MYSQL database is running and create a new eclipse pydev project and you should be able to test the code
 
 
 # Files
