@@ -1,4 +1,4 @@
-# Python-Stock-Ticker
+# Python Stock Ticker
 
 
 How to run this code on your machine
